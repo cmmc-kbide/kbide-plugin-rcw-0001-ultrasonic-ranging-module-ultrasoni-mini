@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-rcw-0001-ultrasonic-ranging-module-ultrasoni-mini",
+  "title": "rcw-0001-ultrasonic-ranging-module-ultrasoni-mini",
+  "keywords": "rcw-0001-ultrasonic-ranging-module-ultrasoni-mini, esp32, esp8266, arduino",
+  "description": "rcw-0001-ultrasonic-ranging-module-ultrasoni-mini plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-rcw-0001-ultrasonic-ranging-module-ultrasoni-mini/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-rcw-0001-ultrasonic-ranging-module-ultrasoni-mini/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
